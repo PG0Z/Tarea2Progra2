@@ -1,0 +1,8 @@
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\obj\Debug\Tarea2Progra2.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\obj\Debug\Tarea2Progra2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\obj\Debug\Tarea2Progra2.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\bin\Debug\Tarea2Progra2.exe.config
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\bin\Debug\Tarea2Progra2.exe
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\bin\Debug\Tarea2Progra2.pdb
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\obj\Debug\Tarea2Progra2.exe
+C:\Users\pablo\Desktop\UH\2023-QI\Progra 2\Tarea2Progra2\Tarea2Progra2\obj\Debug\Tarea2Progra2.pdb
